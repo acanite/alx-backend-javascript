@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📖 0x00. ES6 Basics
 Topics Covered
 ECMAScript 6 - ECMAScript 2015.
@@ -183,3 +184,7 @@ This project was done by SE. Akanni Akeem. Feel free to get intouch with me;
 📧 Email acanite01@gmail.com
 
 👍 A lot of thanks to ALX-Africa Software Engineering program for the project requirement
+=======
+## ALX BACK END
+Introduction to ALX Back End Programing
+>>>>>>> dc7cf7c3f49a0623cd91e0fbb5cf72ad875a0fac
